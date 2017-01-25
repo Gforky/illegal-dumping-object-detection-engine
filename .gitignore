@@ -1,0 +1,5 @@
+training-images*
+.DS_Store
+._training-images
+.gitignore.swp
+.ipynb_checkpoints

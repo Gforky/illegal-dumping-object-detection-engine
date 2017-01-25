@@ -1,0 +1,13 @@
+name: environment
+dependencies:
+- pip >= 9
+- jupyter
+- numpy
+- scipy
+- scikit-learn
+- pandas
+- matplotlib
+- bokeh
+- menpo::opencv3
+- pip:
+  - tensorflow >= 0.12.0rc1
