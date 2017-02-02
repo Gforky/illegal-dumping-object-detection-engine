@@ -3,3 +3,5 @@ training-images*
 ._training-images
 .gitignore.swp
 .ipynb_checkpoints
+__pycache__
+*.pickle
